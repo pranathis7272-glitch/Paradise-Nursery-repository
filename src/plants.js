@@ -1,0 +1,11 @@
+export const plants = [
+  { id: 1, name: 'Golden Pothos', category: 'Easy Care', price: 14, image: 'https://images.unsplash.com/photo-1614594975525-e45190c55d0b?auto=format&fit=crop&w=700&q=80', description: 'A trailing green plant that brightens shelves and corners.' },
+  { id: 2, name: 'Snake Plant', category: 'Easy Care', price: 18, image: 'https://images.unsplash.com/photo-1593482892290-f54927ae2b3a?auto=format&fit=crop&w=700&q=80', description: 'A sculptural, low-maintenance favourite for indoor spaces.' },
+  { id: 3, name: 'ZZ Plant', category: 'Easy Care', price: 20, image: 'https://images.unsplash.com/photo-1632207691143-643e2a6a7c16?auto=format&fit=crop&w=700&q=80', description: 'Glossy leaves and a relaxed care routine.' },
+  { id: 4, name: 'Peace Lily', category: 'Flowering', price: 22, image: 'https://images.unsplash.com/photo-1593691509543-c55fb32e5cee?auto=format&fit=crop&w=700&q=80', description: 'Elegant foliage with graceful white blooms.' },
+  { id: 5, name: 'Anthurium', category: 'Flowering', price: 26, image: 'https://images.unsplash.com/photo-1597055181300-e3633a917d9b?auto=format&fit=crop&w=700&q=80', description: 'A tropical plant known for its colourful heart-shaped flowers.' },
+  { id: 6, name: 'African Violet', category: 'Flowering', price: 16, image: 'https://images.unsplash.com/photo-1497250681960-ef046c08a56e?auto=format&fit=crop&w=700&q=80', description: 'A compact flowering plant for a bright windowsill.' },
+  { id: 7, name: 'Aloe Vera', category: 'Useful Plants', price: 12, image: 'https://images.unsplash.com/photo-1509423350716-97f9360b4e09?auto=format&fit=crop&w=700&q=80', description: 'A sun-loving succulent with fleshy, architectural leaves.' },
+  { id: 8, name: 'Rosemary', category: 'Useful Plants', price: 10, image: 'https://images.unsplash.com/photo-1515586000433-45406d8e6662?auto=format&fit=crop&w=700&q=80', description: 'A fragrant herb for a sunny kitchen corner.' },
+  { id: 9, name: 'Jade Plant', category: 'Useful Plants', price: 15, image: 'https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=700&q=80', description: 'A sturdy succulent with rounded, glossy leaves.' }
+];
